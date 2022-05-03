@@ -1,5 +1,7 @@
 # Mlh_Code_Sample
 
+//*******FIRST OF ALL THIS REPOSITORY IS CREATED BY PRADUM TIWARI TO ELABORATE THE MEDIUM/HARD LEVEL PROBLEM OF PHONE PAD ON LEETCODE***************\\\
+
 Hii I know that there is specified that no Algorithm implementations / competitive coding solutions comes under poor code samples but i have to submit this only because of 
 two reasons:----------------------------------------------
 
